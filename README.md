@@ -1,2 +1,3 @@
 # Rainbow-Song
-A song about rainbows
+Followed a tutorial.
+A song about rainbows.
